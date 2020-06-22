@@ -41,7 +41,5 @@ communication. If the other party is away, and you leave before they come back,
 they can still answer your question, instead of just staring at a "Hello" and
 wondering what they missed.
 
-This is a copy of the original website [nohello.com](http://www.nohello.com/).
-Acknowledgements go to the original anonymous author. I felt an urge to
-modernize this gem with a more suitable layout and https connection. The source
-of this file is publicly available on [github.com](https://github.com/sbmueller/nohello).
+This is a copy of the original website [nohello.com](http://www.nohello.com/)and then forket from sbmueller nohello page.
+Acknowledgements go to the original anonymous author and sbmueller ;).
